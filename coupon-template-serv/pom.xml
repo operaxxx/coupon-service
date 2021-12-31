@@ -11,6 +11,11 @@
 
     <artifactId>coupon-template-serv</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>coupon-template-dao</module>
+        <module>coupon-template-api</module>
+        <module>coupon-template-impl</module>
+    </modules>
 
 
 </project>

@@ -11,6 +11,7 @@
 
     <modules>
         <module>coupon-calculation-api</module>
+        <module>coupon-calculation-impl</module>
     </modules>
 
     <artifactId>coupon-calculation-serv</artifactId>

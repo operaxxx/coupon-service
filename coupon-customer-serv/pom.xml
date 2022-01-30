@@ -11,5 +11,10 @@
 
     <artifactId>coupon-customer-serv</artifactId>
     <packaging>pom</packaging>
+  <modules>
+    <module>coupon-customer-api</module>
+    <module>coupon-customer-dao</module>
+    <module>coupon-customer-impl</module>
+  </modules>
 
 </project>
